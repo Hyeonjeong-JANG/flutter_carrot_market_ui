@@ -12,7 +12,7 @@ class MainScreens extends StatefulWidget {
 }
 
 class _MainScreensState extends State<MainScreens> {
-  int _selectedIndex = 1;
+  int _selectedIndex = 2;
 
   @override
   Widget build(BuildContext context) {
